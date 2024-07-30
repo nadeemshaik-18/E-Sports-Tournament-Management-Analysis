@@ -1,0 +1,20 @@
+E-Sports Tournament Analysis Queries 
+Which teams performed the best in terms of total scores?
+
+What is the average score for each player?
+
+What is the win rate of each team in the tournament?
+
+Which players participated in the most matches?
+
+Which teams had the highest scores in each match?
+
+Who are the top-scoring players in the tournament?
+
+Which teams won the most matches?
+
+Which players participated in the most matches?
+
+What are the results of each match in the tournament?
+
+How do the performance metrics compare between different teams and players?
