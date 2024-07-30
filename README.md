@@ -62,14 +62,12 @@ Insight: Examines results to identify trends. For example:
 Match 1: Team A won against Team B.
 Match 2: Team A won against Team C.
 Benefit: Helps in understanding match dynamics and performance patterns.
-
-#Team and Player Performance Comparison:
+# Team and Player Performance Comparison:
 
 Insight: Comparison of metrics between teams and players. For example:
 Team A vs. Team B: Team A had a higher average score and win rate.
 Alice vs. Bob: Alice had a higher average score and participated in more matches.
 Benefit: Provides a comprehensive view of relative success and performance.
-
-#Summary:
+# Summary:
 
 This analysis includes detailed insights into team and player performances, using specific numbers to illustrate scoring, win rates, participation, and match outcomes. These insights are crucial for understanding performance trends and making informed decisions in e-sports management.
